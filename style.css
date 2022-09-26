@@ -221,7 +221,7 @@ blockquote p{
     margin: 0 80px;
     font-family: 'Roboto Slab', serif;
     font-weight: bold;
-    font-size: 4em;
+    font-size: 4.5em;
     text-align: center;
     
 }
@@ -607,6 +607,7 @@ footer {
     .quote {
         min-height: 100vh;
         padding: 0 2em;   
+        font-size: 0.6em;
     }
     
     .quote i {
@@ -645,7 +646,7 @@ footer {
     }
 
     .columna-1{
-         width: 100%;
+        width: 100%;
     }
 
     .columna-1 p{
